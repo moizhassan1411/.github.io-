@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meri Pehli Website</title>
+</head>
+<body>
+  <h1>Assalamualaikum Duniya!</h1>
+  <p>Yeh meri pehli GitHub website hai 😊</p>
+</body>
+</html>
